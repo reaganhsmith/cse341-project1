@@ -20,7 +20,7 @@ content-type: application/json
   "birthday": "March 14, 2000"
 }
 
-### Update Contact 
+### ADD Contact 
 POST http://localhost:3000/users HTTP/1.1
 content-type: application/json
 
